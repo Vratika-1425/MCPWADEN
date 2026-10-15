@@ -22,6 +22,8 @@ Every tool call is checked before it runs. Every web page is inspected before th
 ---
 <img width="1536" height="1024" alt="AF181914-2CD2-44D8-AE37-98D239ECBE96" src="https://github.com/user-attachments/assets/2c848df3-43a7-4090-8079-a1121a0fddfb" />
 
+https://drive.google.com/file/d/1Gr_VQ5T2zmpu2MFfZ4xc-a3NYOA8tf-5/view?usp=sharing
+
 ## Why
 
 An AI agent with web tools reads text written by strangers and then acts. A single sentence hidden in a page can steer it to:
