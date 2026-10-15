@@ -17,6 +17,7 @@ Every tool call is checked before it runs. Every web page is inspected before th
 </div>
 
 ---
+<img width="1536" height="1024" alt="AF181914-2CD2-44D8-AE37-98D239ECBE96" src="https://github.com/user-attachments/assets/2c848df3-43a7-4090-8079-a1121a0fddfb" />
 
 ## Why
 
