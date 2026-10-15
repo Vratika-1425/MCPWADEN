@@ -264,6 +264,3 @@ This is a working prototype, not a hardened product.
 - [ ] Durable approvals and rate limits
 - [ ] Remote MCP servers over authenticated Streamable HTTP
 
-## License
-
-[Choose a license before publishing. `package.json` currently says ISC, the npm default.]
